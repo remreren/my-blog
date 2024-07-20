@@ -2,11 +2,7 @@
 title: 'Monolithic vs Microservices Architecture | Architectural Patterns — 0'
 description: 'In this article, we will compare monolithic and microservices architectures.'
 summary: 'Monolithic architecture is suitable for small projects and teams due to its simplicity and ease of development, but as projects and teams grow, microservices architecture becomes advantageous for its scalability, independent deployment, and management flexibility.'
-
-preview:
-  image: https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Ki5t2NcGodzmgPKTdSAAFg.jpeg
-  title: 'Monolithic vs Microservices Architecture | Architectural Patterns — 0'
-  description: 'Monolithic architecture is suitable for small projects and teams due to its simplicity and ease of development, but as projects and teams grow, microservices architecture becomes advantageous for its scalability, independent deployment, and management flexibility.'
+image: https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Ki5t2NcGodzmgPKTdSAAFg.jpeg
 
 date: 2022-05-02T18:00:00+03:00
 draft: false

@@ -2,11 +2,7 @@
 title: 'Testing with Testcontainers'
 description: "In this article, I will explain why Testcontainers should be used instead of H2 and what problems it solves."
 summary: "Although we can write tests with tools like H2, mocks don't fully replace the real ones. This is where Testcontainers comes in."
-
-preview:
-  title: 'Testing with Testcontainers'
-  description: "Although we can write tests with tools like H2, mocks don't fully replace the real ones. This is where Testcontainers comes in."
-  image: 'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_foQAb0bTEbESsdKk8atnA.jpeg'
+image: 'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_foQAb0bTEbESsdKk8atnA.jpeg'
 
 date: 2022-08-24T12:00:00+03:00
 draft: false

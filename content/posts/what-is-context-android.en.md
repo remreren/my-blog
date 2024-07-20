@@ -1,7 +1,8 @@
 ---
 title: "What is Context? — It's Everywhere."
 description: 'In this article, I will explain what the Context class, commonly used in Android applications, is and how it is used.'
-summary: 'Context provides the environment and features of our application through the context. Preferences of the application are stored here, and resources and functions specific to the application are accessed through this interface.'
+summary: 'Context provides the environment and features of our application. Preferences of the application are stored here, and resources and functions specific to the application are accessed through this interface.'
+image: https://miro.medium.com/v2/resize:fit:4800/format:webp/1*ka8-i-vA0oJA6dPvStcsDw.jpeg
 
 date: 2021-04-03T12:00:00+03:00
 draft: false

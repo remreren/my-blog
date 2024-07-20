@@ -1,7 +1,8 @@
 ---
 title: 'Context Nedir? — Onlar her yerde.'
 description: 'Bu yazıda Android uygulamalarında sıkça kullanılan Context sınıfının ne olduğunu ve nasıl kullanıldığını anlatacağım.'
-summary: 'Context kelimesinin Türkçe anlamı bağlamdır. Uygulamamızın ortamı ve özellikleri context üzerinden uygulamamıza sağlanır. Uygulamanın tercihleri burada saklanır, uygulama özelindeki kaynaklara ve fonksiyonlara bu arayüz üzerinden erişiriz.'
+summary: 'Context, uygulamamızın bağlamı ve özellikleri hakkında bilgi verir. Uygulamanın tercihleri burada saklanır, uygulama özelindeki kaynaklara ve fonksiyonlara bu arayüz üzerinden erişiriz.'
+image: https://miro.medium.com/v2/resize:fit:4800/format:webp/1*ka8-i-vA0oJA6dPvStcsDw.jpeg
 
 date: 2021-04-03T12:00:00+03:00
 draft: false

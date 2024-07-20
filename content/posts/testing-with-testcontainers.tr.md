@@ -2,11 +2,7 @@
 title: 'Testcontainers ile Test Etmek'
 description: "Bu yazıda neden H2 yerine Testcontainers'ın kullanılması gerektiği ve hangi sorunları çözdüğünü anlatacağım."
 summary: 'Her ne kadar H2 gibi araçlarla testler yazabilsek de taklitler gerçeklerin yerini tutmuyor. Testcontainers da tam burada ortaya çıkıyor.'
-
-preview:
-  title: 'Testcontainers ile Test Etmek'
-  description: 'Her ne kadar H2 gibi araçlarla testler yazabilsek de taklitler gerçeklerin yerini tutmuyor. Testcontainers da tam burada ortaya çıkıyor.'
-  image: 'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_foQAb0bTEbESsdKk8atnA.jpeg'
+image: 'https://miro.medium.com/v2/resize:fit:1400/format:webp/1*_foQAb0bTEbESsdKk8atnA.jpeg'
 
 date: 2022-08-24T12:00:00+03:00
 draft: false

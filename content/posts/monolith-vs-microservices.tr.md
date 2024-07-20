@@ -2,11 +2,7 @@
 title: 'Monolitik Mimari Mikroservis Mimariye Karşı | Mimari Desenler — 0'
 description: 'Bu yazıda monolitik ve mikroservis mimarilerini karşılaştıracağız.'
 summary: 'Monolitik sistemler, geliştirmesi en kolay sistemler olmasına karşın proje boyutu büyüdükçe mikroservislere ihtiyaç duyulmaktadır.'
-
-preview:
-  image: https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Ki5t2NcGodzmgPKTdSAAFg.jpeg
-  title: 'Monolitik Mimari Mikroservis Mimariye Karşı | Mimari Desenler — 0'
-  description: 'Monolitik sistemler, geliştirmesi en kolay sistemler olmasına karşın proje boyutu büyüdükçe mikroservislere ihtiyaç duyulmaktadır.'
+image: https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Ki5t2NcGodzmgPKTdSAAFg.jpeg
 
 date: 2022-05-02T18:00:00+03:00
 draft: false
