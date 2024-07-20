@@ -1,0 +1,53 @@
+baseURL: 'https://blog.emreeren.dev/'
+languageCode: 'en-us'
+title: 'Emre Eren'
+theme: 'typo'
+
+params:
+  breadcrumbs: true
+  paginationSize: 10
+  listSummaries: true
+  colorPalette: 'gruvebox'
+  # hideHeader: true
+  # listDateFormat: '2 Jan 2006'
+
+  description: 'Emre Eren'
+  homeCollection: 'posts'
+
+  social:
+    - name: 'Linkedin'
+      url: 'https://www.linkedin.com/in/eerenn/'
+    - name: 'GitHub'
+      url: 'https://github.com/remreren'
+    - name: 'Medium'
+      url: 'https://medium.com/@eeren'
+    - name: 'Email'
+      url: 'mailto:eeren881@gmail.com'
+    
+  footer:
+    showText: true
+    text: "Powered by [Hugo](https://gohugo.io/) \u2764 [Typo](https://github.com/tomfran/typo)"
+
+    showCopyright: true
+    copyright: "Copyright &copy; 2024 Emre Eren."
+
+author:
+  name: 'Emre Eren'
+  homepage: 'https://blog.emreeren.dev/'
+
+defaultContentLanguage: tr
+defaultContentLanguageInSubdir: true
+
+languages:
+  tr:
+    baseURL: https://blog.emreeren.dev/tr/
+    languageCode: "tr-TR"
+    languageName: "Türkçe"
+    title: "Emre Eren"
+    weight: 2
+  en:
+    baseURL: https://blog.emreeren.dev/en/
+    languageCode: "en-US"
+    languageName: "English"
+    title: "Emre Eren"
+    weight: 1
